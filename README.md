@@ -1,4 +1,4 @@
-# 14Haftal-kPojem
+# 14HaftalıkPojem
 Harcama Takip Listem
 
 
