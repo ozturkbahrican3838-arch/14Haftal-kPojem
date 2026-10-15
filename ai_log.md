@@ -1,22 +1,29 @@
 prompt- 
-------------------------------------------------------------------------------------------------------------------------------------
-kanka hocam bana bir proje yapmamı soyledi komple sınıfca bireysel çalısma olartak yapacagız bu projeyı herkes bir problem bulacak ve bu problemin çözümü için bir web sayfası geliştirecek çok fazla ayrıntyılı veri çekmemizi gerektiren bir web sayfası olmasıan gerek yok günlük hatta falan lazım olacak sekilde bir web sayfası ve bunu yaparken bir anda bütün kodlarla yapmayacagız ayrıca yapay zekadan yani senden yardım almam zorunlu seninle birlikte bir sorun bulup onun uzerınden bır veb sayfası hazırlayacagız hocamız haftalık sayfada olması gereken özellikleri bize soyleyecek biz de hafta hafta geliştirmesini yapacagız BU PROMPT U RESMİ ŞEKİLDE DÜZENLE
+-----------------------------------------------------------------------------------------------------------------------------------
+merhaba, sınıf olarak bireysel şekilde yürütüğümüz bir web projesi yapacağız öncümüz olarak eğitim görevlimiz bu projeye her hafta yeni ekleneccek güncellemeler ve görevler verecek,tek seferlik bir süreç olmayacak 14 hafta boyunca devam edecek ve bu süreçte yapay zekadan destek alacağız ve sana sordugum sorular senın bana verdiğin cevaplar hepsi kayıt altında olacak projemin konusu: üniversite öğrencilerin aylık harcamaları kayıt altına alabilecekleri finans yönetim sitelerii yapmak.
 ------------------------------------------------------------------------------------------------------------------------------------
 VERDİĞİ CEVAP
-------------------------------------------------------------------------------------------------------------------------------------
-Hocanıza sunabileceğiniz veya proje öneri formunda kullanabileceğiniz, daha resmi ve akademik bir üslupla düzenlenmiş metin aşağıdadır:
+-----------------------------------------------------------------------------------------------------------------------------------
+Merhaba! Güzel bir proje konusu seçmişsin. Öğrenciler için aylık harcama takibi hem gerçek bir ihtiyaca karşılık geliyor hem de 14 haftaya yayılan, adım adım büyütülebilecek bir yapıya çok uygun.
 
----
+Başlangıç için aklıma gelen temel çerçeve şöyle:
 
-**Proje Konusu ve Kapsamı Bildirim Formu**
+**Çekirdek özellikler (ilk haftalar için)**
+- Gelir ve gider ekleme (tutar, kategori, tarih, açıklama)
+- Harcamaları listeleme, düzenleme ve silme
+- Aylık toplam gelir, gider ve kalan bakiye özeti
 
-Yürütülmekte olan web tabanlı uygulama geliştirme süreci kapsamında, bireysel olarak günlük hayatta karşılaşılan bir problemin çözümüne yönelik, ölçeklenebilir ve modüler yapıda bir web sayfası geliştirilmesi planlanmaktadır.
+**Sonradan eklenebilecekler (hoca yeni görev verdikçe)**
+- Kategori bazlı grafikler (yemek, ulaşım, kitap, eğlence vb.)
+- Aylık bütçe limiti ve limit aşımında uyarı
+- Kullanıcı girişi / kayıt olma
+- Veritabanı ile verileri kalıcı saklama
+- Aylara göre karşılaştırma, raporlama, dışa aktarma
+- Mobil uyumlu (responsive) tasarım
 
-Proje geliştirme süreci şu prensiplere dayanacaktır:
+Bu yapı sayesinde hocan hangi görevi verirse versin, projeye kolayca oturtabiliriz. Konuşmalarımız bu proje içinde kayıt altında kalacağı için her hafta kaldığımız yerden devam edebiliriz.
 
-* **Problem Odaklı Yaklaşım:** Günlük yaşamda sıklıkla karşılaşılan pratik bir sorunu tespit ederek bu probleme dijital bir çözüm üretmek.
-* **Aşamalı Geliştirme (İteratif Süreç):** Projenin tek bir seferde büyük bir kod bloğu olarak değil; her hafta ilgili ders çıktıkları ve hocamızın yönlendirmeleri doğrultusunda haftalık modüller halinde adım adım geliştirilmesi.
-* **Yapay Zeka Destekli Geliştirme:** Süreç boyunca yapay zeka araçlarından teknik rehberlik ve kod optimizasyonu konularında aktif olarak destek alınması.
+Başlamadan önce bilmem gereken en önemli şey: **derste hangi teknolojileri kullanıyorsunuz veya kullanmanız isteniyor?** (örneğin sadece HTML/CSS/JavaScript mi, yoksa PHP, Python, React, bir veritabanı gibi şeyler de var mı?) Buna göre örnekleri ve kodları seviyene ve dersin kurallarına uygun hazırlayayım.
 
-Bu kapsamda, ilk aşamada problem tanımının netleştirilmesi ve ilerleyen haftalarda duyurulacak özelliklerin projeye entegre edilmesi hedeflenmektedir.
+İlk haftanın görevi geldiğinde buraya yazman yeterli, oradan ilerleriz.
 -----------------------------------------------------------------------------------------------------------------------------------
