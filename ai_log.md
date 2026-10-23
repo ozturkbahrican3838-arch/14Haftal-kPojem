@@ -1,6 +1,6 @@
 prompt- 
 -----------------------------------------------------------------------------------------------------------------------------------
-merhaba, sınıf olarak bireysel şekilde yürütüğümüz bir web projesi yapacağız öncümüz olarak eğitim görevlimiz bu projeye her hafta yeni ekleneccek güncellemeler ve görevler verecek,tek seferlik bir süreç olmayacak 14 hafta boyunca devam edecek ve bu süreçte yapay zekadan destek alacağız ve sana sordugum sorular senın bana verdiğin cevaplar hepsi kayıt altında olacak projemin konusu: üniversite öğrencilerin aylık harcamaları kayıt altına alabilecekleri finans yönetim sitesi yapmak.
+merhaba, sınıf olarak bireysel şekilde yürüttüğümüz bir web projesi yapacağız öncümüz olarak eğitim görevlimiz bu projeye her hafta yeni eklenecek güncellemeler ve görevler verecek,tek seferlik bir süreç olmayacak 14 hafta boyunca devam edecek ve bu süreçte yapay zekadan destek alacağız ve sana sordugum sorular senın bana verdiğin cevaplar hepsi kayıt altında olacak projemin konusu: üniversite öğrencilerin aylık harcamaları kayıt altına alabilecekleri finans yönetim sitesi yapmak.
 ------------------------------------------------------------------------------------------------------------------------------------
 VERDİĞİ CEVAP
 -----------------------------------------------------------------------------------------------------------------------------------
