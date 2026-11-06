@@ -296,6 +296,6 @@ VERDİĞİ CEVAP
 Bunu şu şekilde güncelle (yani <p> etiketine id="total-amount" ekle):
 -----------------------------------------------------------------------------------------------------------------------------------
 
-30 EKİME TESLİM EDİLECEK BU SATIRDAN GELİŞTİRİLMEYE DEVAM EDİLECEKTİR.
+6 EKİME TESLİM EDİLECEK BU SATIRDAN GELİŞTİRİLMEYE DEVAM EDİLECEKTİR.
 
 
